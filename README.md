@@ -21,9 +21,10 @@ A full-stack Airbnb clone built with modern web technologies, featuring property
 | Listing Detailed View |	Shows full details of a selected property. | High-resolution images, property description, amenities, reviews, booking button. |
 | Simple Checkout View |	Allows users to confirm and finalize bookings. | Selected property details, date selection, price summary, payment method simulation, confirmation message. | 
 
+<h2>Importance of a user-friendly design</h2>  
 A user-friendly design is critical in a booking system because it directly impacts trust, usability, and conversion.  
 
-Color Styles <br>
+<br> Color Styles <br>
 #34967C   
 #222222  
 #EBEBEB  
