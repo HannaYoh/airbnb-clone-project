@@ -73,3 +73,8 @@ Acts as the voice of the customer.
 Facilitates Agile ceremonies (stand-ups, sprint planning, retrospectives).  
 Removes blockers and helps the team follow Agile principles.  
 
+<h2>UI Component Patterns</h2>  
+
+* Navbar: contains a search bar and search filters.  
+* Property card: contains pictures, property name, price, location, and rating.  
+* Footer: contains about us and help sections.  
