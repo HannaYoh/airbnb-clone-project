@@ -33,4 +33,43 @@ Color Styles <br>
 Typography<br>
 Front family: Quicksand <br>
 Font weight: 500 <br>
-Font size:18px <br>
+Font size:18px <br>  
+
+Identifying design properties in a mockup is crucial because it bridges the gap between concept and implementation. By clearly defining elements such as layout, color scheme, typography, spacing, and interaction patterns, developers and designers ensure that the final product aligns with the intended user experience.  
+
+<h2>Project Roles and Responsibilities</h2>  
+
+* Project Manager (PM)  
+Plans, schedules, and oversees the project.  
+Ensures deliverables meet deadlines, scope, and budget.  
+Acts as the communication bridge between stakeholders and the team.  
+
+* Frontend Developers  
+Implement the user interface using frameworks like React.  
+Focus on responsive design, accessibility, and smooth user interactions.  
+
+* Backend Developers  
+Build and maintain server-side logic, databases, and APIs.  
+Ensure data security, scalability, and integration with external services.  
+
+* Designers (UI/UX)  
+Create wireframes, mockups, and visual assets.  
+Define color schemes, typography, and interaction flows.  
+
+* QA/Testers  
+Test the application for bugs, usability issues, and performance bottlenecks.  
+Write test cases and ensure quality standards.  
+
+* DevOps Engineers  
+Manage deployment pipelines, CI/CD, server configuration, and monitoring.  
+Automate builds, tests, and deployments.  
+
+* Product Owner (PO)  
+Defines the product vision and backlog.  
+Prioritizes features based on business goals and user needs.  
+Acts as the voice of the customer.  
+
+* Scrum Master  
+Facilitates Agile ceremonies (stand-ups, sprint planning, retrospectives).  
+Removes blockers and helps the team follow Agile principles.  
+
